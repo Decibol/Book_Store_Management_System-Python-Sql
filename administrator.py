@@ -5,7 +5,7 @@ print()
 
 import cgi
 import mysql.connector
-mydb=mysql.connector.connect (host="localhost", user="root", password="AvengersAssemble")
+mydb=mysql.connector.connect (host="localhost", user="Pls_mention your user name", password="Pls mention your pass")
 mycursor=mydb.cursor()
 
 
